@@ -48,13 +48,14 @@ namespace DiningPhilosofers
                 Console.WriteLine($"{Thread.CurrentThread.Name} is Thinking.........!");
                 Thread.Sleep(ran.Next(10000));
                 // wrap in a do
+
                 lock (baton)
                 {
                     //  look for if forks is available
                     while (Forks[forks.Left]  || Forks[forks.Right] ) Monitor.Wait(baton);
                     Forks[forks.Left] = true;
                     Forks[forks.Right] = true;
-                    // set name in eating array
+                    Monitor.PulseAll(baton);
                 }
 
                 Console.WriteLine($"{Thread.CurrentThread.Name} Is eating.....!");
@@ -63,11 +64,6 @@ namespace DiningPhilosofers
 
                     Forks[forks.Left] = false;
                     Forks[forks.Right] = false;
-
-
-
-
-
 
             } while (true);
         }
@@ -80,6 +76,11 @@ namespace DiningPhilosofers
     {
         public int Left { get; set; }
         public int Right { get; set; }
+    }
+
+    public class LockAndPush
+    {
+
     }
 }
 

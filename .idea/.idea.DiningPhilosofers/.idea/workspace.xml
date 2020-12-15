@@ -5,14 +5,23 @@
     <projectFile>TestCode/TestCode.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f208d9bd-5aed-4d70-ac67-64faf605380a" name="Default Changelist" comment="" />
+    <list default="true" id="f208d9bd-5aed-4d70-ac67-64faf605380a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DiningPhilosofers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DiningPhilosofers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiningPhilosofers/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DiningPhilosofers/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiningPhilosofers/bin/Debug/net5.0/DiningPhilosofers.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DiningPhilosofers/bin/Debug/net5.0/DiningPhilosofers.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiningPhilosofers/bin/Debug/net5.0/DiningPhilosofers.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DiningPhilosofers/bin/Debug/net5.0/DiningPhilosofers.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiningPhilosofers/obj/Debug/net5.0/DiningPhilosofers.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DiningPhilosofers/obj/Debug/net5.0/DiningPhilosofers.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiningPhilosofers/obj/Debug/net5.0/DiningPhilosofers.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DiningPhilosofers/obj/Debug/net5.0/DiningPhilosofers.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/TestCode/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C80B499D-ADA7-49E0-A8EE-7A9B1744160B/233/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -22,6 +31,7 @@
     </changedPaths>
   </component>
   <component name="ProjectId" id="1lgQsNfJfPiyLuGMhyJnOAyU9Vo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,6 +43,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -83,7 +94,9 @@
       <option name="presentableId" value="Default" />
       <updated>1608016462768</updated>
       <workItem from="1608016472971" duration="4145000" />
-      <workItem from="1608024432201" duration="9327000" />
+      <workItem from="1608024432201" duration="10607000" />
+      <workItem from="1608043471006" duration="416000" />
+      <workItem from="1608044706064" duration="3437000" />
     </task>
     <servers />
   </component>
@@ -92,6 +105,18 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
