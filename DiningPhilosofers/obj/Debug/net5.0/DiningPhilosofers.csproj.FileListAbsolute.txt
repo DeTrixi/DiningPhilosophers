@@ -1,0 +1,16 @@
+C:\Users\flemm\RiderProjects\DiningPhilosofers\DiningPhilosofers\bin\Debug\net5.0\DiningPhilosofers.exe
+C:\Users\flemm\RiderProjects\DiningPhilosofers\DiningPhilosofers\bin\Debug\net5.0\DiningPhilosofers.deps.json
+C:\Users\flemm\RiderProjects\DiningPhilosofers\DiningPhilosofers\bin\Debug\net5.0\DiningPhilosofers.runtimeconfig.json
+C:\Users\flemm\RiderProjects\DiningPhilosofers\DiningPhilosofers\bin\Debug\net5.0\DiningPhilosofers.runtimeconfig.dev.json
+C:\Users\flemm\RiderProjects\DiningPhilosofers\DiningPhilosofers\bin\Debug\net5.0\DiningPhilosofers.dll
+C:\Users\flemm\RiderProjects\DiningPhilosofers\DiningPhilosofers\bin\Debug\net5.0\ref\DiningPhilosofers.dll
+C:\Users\flemm\RiderProjects\DiningPhilosofers\DiningPhilosofers\bin\Debug\net5.0\DiningPhilosofers.pdb
+C:\Users\flemm\RiderProjects\DiningPhilosofers\DiningPhilosofers\obj\Debug\net5.0\DiningPhilosofers.csprojAssemblyReference.cache
+C:\Users\flemm\RiderProjects\DiningPhilosofers\DiningPhilosofers\obj\Debug\net5.0\DiningPhilosofers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flemm\RiderProjects\DiningPhilosofers\DiningPhilosofers\obj\Debug\net5.0\DiningPhilosofers.AssemblyInfoInputs.cache
+C:\Users\flemm\RiderProjects\DiningPhilosofers\DiningPhilosofers\obj\Debug\net5.0\DiningPhilosofers.AssemblyInfo.cs
+C:\Users\flemm\RiderProjects\DiningPhilosofers\DiningPhilosofers\obj\Debug\net5.0\DiningPhilosofers.csproj.CoreCompileInputs.cache
+C:\Users\flemm\RiderProjects\DiningPhilosofers\DiningPhilosofers\obj\Debug\net5.0\DiningPhilosofers.dll
+C:\Users\flemm\RiderProjects\DiningPhilosofers\DiningPhilosofers\obj\Debug\net5.0\ref\DiningPhilosofers.dll
+C:\Users\flemm\RiderProjects\DiningPhilosofers\DiningPhilosofers\obj\Debug\net5.0\DiningPhilosofers.pdb
+C:\Users\flemm\RiderProjects\DiningPhilosofers\DiningPhilosofers\obj\Debug\net5.0\DiningPhilosofers.genruntimeconfig.cache
