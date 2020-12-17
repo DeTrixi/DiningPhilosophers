@@ -10,8 +10,10 @@
       <change beforePath="$PROJECT_DIR$/DiningPhilosofers/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DiningPhilosofers/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DiningPhilosofers/bin/Debug/net5.0/DiningPhilosofers.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DiningPhilosofers/bin/Debug/net5.0/DiningPhilosofers.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DiningPhilosofers/bin/Debug/net5.0/DiningPhilosofers.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DiningPhilosofers/bin/Debug/net5.0/DiningPhilosofers.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiningPhilosofers/bin/Debug/net5.0/ref/DiningPhilosofers.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DiningPhilosofers/bin/Debug/net5.0/ref/DiningPhilosofers.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DiningPhilosofers/obj/Debug/net5.0/DiningPhilosofers.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DiningPhilosofers/obj/Debug/net5.0/DiningPhilosofers.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DiningPhilosofers/obj/Debug/net5.0/DiningPhilosofers.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DiningPhilosofers/obj/Debug/net5.0/DiningPhilosofers.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiningPhilosofers/obj/Debug/net5.0/ref/DiningPhilosofers.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DiningPhilosofers/obj/Debug/net5.0/ref/DiningPhilosofers.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +98,10 @@
       <workItem from="1608016472971" duration="4145000" />
       <workItem from="1608024432201" duration="10607000" />
       <workItem from="1608043471006" duration="416000" />
-      <workItem from="1608044706064" duration="3437000" />
+      <workItem from="1608044706064" duration="3587000" />
+      <workItem from="1608097224289" duration="613000" />
+      <workItem from="1608103198606" duration="1239000" />
+      <workItem from="1608104887116" duration="339000" />
     </task>
     <servers />
   </component>

@@ -6,7 +6,8 @@ namespace DiningPhilosofers
     class Program
     {
         // This array hods the truth about witch forks is in use
-        static readonly bool[] Forks = {false, false, false, false, false};
+        public static readonly bool[] Forks = {false, false, false, false, false};
+
         // this baton Object is used for the lock
         private static object baton = new();
 
@@ -49,22 +50,21 @@ namespace DiningPhilosofers
                 Thread.Sleep(ran.Next(10000));
                 // wrap in a do
 
-                lock (baton)
-                {
+                //lock (baton)
+                    Monitor.Enter(forks);
                     //  look for if forks is available
-                    while (Forks[forks.Left]  || Forks[forks.Right] ) Monitor.Wait(baton);
+                    while (Forks[forks.Left] || Forks[forks.Right]) Monitor.Wait(forks);
                     Forks[forks.Left] = true;
                     Forks[forks.Right] = true;
-                    Monitor.PulseAll(baton);
-                }
 
+                    Monitor.PulseAll(forks);
+                    Monitor.Exit(forks);
                 Console.WriteLine($"{Thread.CurrentThread.Name} Is eating.....!");
                 Thread.Sleep(ran.Next(10000));
                 Console.WriteLine($"{Thread.CurrentThread.Name} Has finished eating............! ");
 
-                    Forks[forks.Left] = false;
-                    Forks[forks.Right] = false;
-
+                Forks[forks.Left] = false;
+                Forks[forks.Right] = false;
             } while (true);
         }
     }
@@ -78,9 +78,5 @@ namespace DiningPhilosofers
         public int Right { get; set; }
     }
 
-    public class LockAndPush
-    {
 
-    }
 }
-
